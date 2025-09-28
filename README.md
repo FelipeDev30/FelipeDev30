@@ -1,11 +1,20 @@
-👋 Olá, sou Felipe Lamas, um entusiasta da tecnologia e estudante dedicado na área de desenvolvimento web! 💻 Atualmente, estou imerso no universo do JavaScript, HTML e CSS, explorando suas infinitas possibilidades e aprofundando meus conhecimentos a cada linha de código.
+# 👋 Olá, eu sou Felipe Lamas!
 
-📚 Minha jornada no desenvolvimento web começou com uma paixão pela criação de experiências digitais envolventes e funcionais. Desde então, venho mergulhando em cursos, projetos práticos e comunidades online, buscando absorver todo conhecimento disponível.
+🎯 Desenvolvedor Front-end apaixonado por criar interfaces modernas, funcionais e acessíveis.
 
-🌱 Estou constantemente expandindo meu conjunto de habilidades, explorando novas tecnologias e frameworks para aprimorar minhas capacidades como desenvolvedor. Estou particularmente interessado em seguir carreira como desenvolvedor web front-end.
+## 🚀 Tecnologias que utilizo:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Firebase**
 
-💡 Meu objetivo é contribuir para projetos emocionantes, aprender com colegas talentosos e, eventualmente, fazer minha própria marca no mundo do desenvolvimento web. Estou sempre aberto a novas oportunidades de aprendizado e colaboração, então não hesite em entrar em contato!
+## 💡 Sobre mim
+Sou um entusiasta da tecnologia com foco em desenvolvimento web. Gosto de transformar ideias em soluções digitais que realmente funcionam e entregam valor. Estou sempre buscando aprender mais e evoluir como desenvolvedor.
 
-🚀 Além do desenvolvimento web, tenho interesse em desenvolvimento de jogos, tocar guitarra e ouvir tudo quanto for possível de música boa.
+## 📫 Como me encontrar
+Você pode me acompanhar aqui no GitHub para ver meus projetos e contribuições. Em breve estarei compartilhando mais conteúdos e aplicações!
 
-📫 Você pode me encontrar online no https://www.linkedin.com/in/luiz-felipe-lamas-da-rosa/. Estou ansioso para conectar e colaborar com outros entusiastas da tecnologia como você! Vamos criar algo incrível juntos! 🌟
+---
+
+⭐ Obrigado por visitar meu perfil!
