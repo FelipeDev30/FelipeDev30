@@ -12,6 +12,8 @@ Atualmente trabalho com as seguintes tecnologias:
 - **JavaScript (ES6+)**
 - **React.js**
 - **Node.js**
+- **Express**
+- **MongoDB**
 - **Firebase**
 - **Git & GitHub**
 
