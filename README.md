@@ -8,7 +8,7 @@
 
 Sobre mim
 - Sou apaixonado por construir sistemas manuteníveis, com foco em qualidade, performance e experiência do usuário.
-- Trabalho com desenvolvimento full‑stack, automação de infraestrutura e integração contínua.
+- Trabalho com desenvolvimento full‑stack.
 
 Destaques — o que eu entrego de melhor
 - Projetos com foco em resultados: clareza no propósito, métricas mensuráveis e validação contínua.
@@ -26,8 +26,7 @@ Projetos selecionados & repositórios de estudo
 Habilidades técnicas
 - Linguagens: JavaScript/TypeScript, Python
 - Frameworks & runtime: Node.js, React, FastAPI
-- Infra & DevOps: Docker, GitHub Actions, Terraform
-- Banco de dados: PostgreSQL, Redis
+- Banco de dados: MySQL, MongoDB
 - Boas práticas: SOLID, testes automatizados, CI/CD
 
 Como eu trabalho
@@ -36,19 +35,8 @@ Como eu trabalho
 3. Implementar com testes e revisão de código.
 4. Entregar automação e monitoramento para manter qualidade em produção.
 
-Resultados e métricas (adicione números reais)
-- Ex.: Redução de latência em 40% ao otimizar X.
-- Ex.: Aumento de conversão em 12% após refatoração do fluxo Y.
-
 Contato
-- Email: seu.email@exemplo.com
-- LinkedIn: https://www.linkedin.com/in/seu-perfil
-- Portfolio: https://seusite.com
+- Email: felipedevjob28@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luiz-felipe-lamas-da-rosa/)
 
-Extras
-- Certificações e artigos — adicione se tiver.
-
-Estatísticas
-- ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDev30&show_icons=true&theme=radical)
-
-Obrigado por visitar! Se quiser que eu personalize isso com descrições maiores para cada projeto, métricas reais ou badges, me envie os detalhes (nome completo, 3 projetos com links e descrições, 5 skills prioritárias, email e LinkedIn).
+Obrigado por visitar! 
