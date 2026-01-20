@@ -16,10 +16,12 @@ Destaques — o que eu entrego de melhor
 - Performance e escalabilidade: otimização de consultas, caching e arquitetura pensada para crescimento.
 - Entrega e automação: pipelines CI/CD, infra como código e observabilidade.
 
-Projetos selecionados (adicione links reais)
-- Projeto A — API REST escalável com autenticação JWT e testes automatizados — https://github.com/SeuProjetoA
-- Projeto B — App web com PWA e SSR — https://github.com/SeuProjetoB
-- Projeto C — Integrações e automações — https://github.com/SeuProjetoC
+Projetos selecionados & repositórios de estudo
+- FelipeDev30/pokedex — App de estudo para consumir a API do PokéAPI e exibir cards de Pokémon (estudo de APIs, React/TS e consumo de dados). https://github.com/FelipeDev30/pokedex
+- FelipeDev30/app-lista-de-supermercado — Aplicativo de lista de supermercado (estudo de lógica de estado, persistência local e UX). https://github.com/FelipeDev30/app-lista-de-supermercado
+- FelipeDev30/instagram-clone-app — Clone do Instagram para estudos (front-end, upload de imagens e autenticação). https://github.com/FelipeDev30/instagram-clone-app
+- FelipeDev30/nlwAgents — Projeto do NLW (eventos/imersão) com foco em integração e automação (aprendizado prático). https://github.com/FelipeDev30/nlwAgents
+- FelipeDev30/formacao-js-dio — Repositório de estudos da formação JavaScript na DIO (exercícios e projetos de aprendizado). https://github.com/FelipeDev30/formacao-js-dio
 
 Habilidades técnicas
 - Linguagens: JavaScript/TypeScript, Python
@@ -49,4 +51,4 @@ Extras
 Estatísticas
 - ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDev30&show_icons=true&theme=radical)
 
-Obrigado por visitar! Se quiser que eu personalize isso com seus projetos e contatos reais, me envie: nome completo, 3 projetos com links, 5 skills prioritárias e email/LinkedIn.
+Obrigado por visitar! Se quiser que eu personalize isso com descrições maiores para cada projeto, métricas reais ou badges, me envie os detalhes (nome completo, 3 projetos com links e descrições, 5 skills prioritárias, email e LinkedIn).
