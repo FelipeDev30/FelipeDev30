@@ -1,42 +1,40 @@
-# Olá 👋, eu sou o FelipeDev30
+# Olá — sou o Felipe (FelipeDev30)
 
-> Desenvolvedor focado em entregar soluções elegantes e escaláveis. Transformo problemas em software confiável e bem testado.
+Desenvolvedor focado em front-end com forte prática em JavaScript, CSS e HTML. Tenho experiência construindo aplicações e protótipos como Pokedex, clone de Instagram e apps de listas, e estudo/implemento tanto interfaces responsivas quanto a lógica por trás das aplicações.
 
-[![GitHub followers](https://img.shields.io/github/followers/FelipeDev30?label=Seguir&style=for-the-badge)](https://github.com/FelipeDev30) [![Top Langs](https://img.shields.io/github/languages/top/FelipeDev30/FelipeDev30?style=for-the-badge)](https://github.com/FelipeDev30) [![Last commit](https://img.shields.io/github/last-commit/FelipeDev30/FelipeDev30?style=for-the-badge)](https://github.com/FelipeDev30/FelipeDev30)
+## Sobre mim
+- Foco principal: desenvolvimento front-end (HTML, CSS, JavaScript)
+- Experiência com: construção de UIs responsivas, manipulação do DOM, consumo de APIs e aplicações pequenas/medianas com Node.js para estudos
+- Abordagem: aprendizado prático por projetos — prefiro aprender fazendo e organizo os projetos no meu GitHub como portfólio
+
+## Habilidades principais
+- JavaScript — Avançado (padrões, DOM, modularidade, async/await)
+- CSS — Avançado (layout responsivo, flexbox, grid, estilização prática)
+- HTML — Proficiente (semântica, acessibilidade básica)
+- Node.js — Intermediário (estudos e pequenos projetos/backend simples)
+- Controle de versão — Git &amp; GitHub
+- Boas práticas: organização de projetos, estudos orientados a projeto, resolução de problemas lógicos
+
+## Ferramentas e tópicos estudados
+- Git / GitHub
+- APIs REST / fetch
+- Boas práticas de layout responsivo (mobile-first)
+- Estruturação de projetos para aprendizado (pastas, README, deploy simples)
+
+## Projetos em destaque
+- <a href="https://github.com/FelipeDev30/pokedex">pokedex</a> — App front-end para consultar Pokémons
+- <a href="https://github.com/FelipeDev30/formacao-js-dio">formacao-js-dio</a> — Exercícios e estudos de JavaScript
+- <a href="https://github.com/FelipeDev30/app-lista-de-supermercado">app-lista-de-supermercado</a> — App de lista de compras
+- <a href="https://github.com/FelipeDev30/nodejs-study">nodejs-study</a> — Estudos de Node.js
+- <a href="https://github.com/FelipeDev30/estudando-front-end">estudando-front-end</a> — Curso completo e projetos de front-end
+- <a href="https://github.com/FelipeDev30/estudando-logica">estudando-logica</a> — Exercícios de lógica de programação
+- <a href="https://github.com/FelipeDev30/instagram-clone-app">instagram-clone-app</a> — Protótipo/clone de feed social
+
+## Arquivo de habilidades (legível por máquina)
+Defino também um arquivo `skills.yml` com minhas principais skills e níveis para facilitar integração com bots/visualizadores de perfil.
+
+## Como contribuir/atualizar este perfil
+Se quiser me sugerir mudanças neste README (ex.: incluir frameworks específicos, cursos, certificados), abra uma issue ou um PR neste repositório.
 
 ---
-
-Sobre mim
-- Sou apaixonado por construir sistemas manuteníveis, com foco em qualidade, performance e experiência do usuário.
-- Trabalho com desenvolvimento full‑stack.
-
-Destaques — o que eu entrego de melhor
-- Projetos com foco em resultados: clareza no propósito, métricas mensuráveis e validação contínua.
-- Código limpo e testável: TDD quando aplicável, cobertura de testes e revisão orientada à qualidade.
-- Performance e escalabilidade: otimização de consultas, caching e arquitetura pensada para crescimento.
-- Entrega e automação: pipelines CI/CD, infra como código e observabilidade.
-
-Projetos selecionados & repositórios de estudo
-- FelipeDev30/pokedex — App de estudo para consumir a API do PokéAPI e exibir cards de Pokémon (estudo de APIs, React/TS e consumo de dados). https://github.com/FelipeDev30/pokedex
-- FelipeDev30/app-lista-de-supermercado — Aplicativo de lista de supermercado (estudo de lógica de estado, persistência local e UX). https://github.com/FelipeDev30/app-lista-de-supermercado
-- FelipeDev30/instagram-clone-app — Clone do Instagram para estudos (front-end, upload de imagens e autenticação). https://github.com/FelipeDev30/instagram-clone-app
-- FelipeDev30/nlwAgents — Projeto do NLW (eventos/imersão) com foco em integração e automação (aprendizado prático). https://github.com/FelipeDev30/nlwAgents
-- FelipeDev30/formacao-js-dio — Repositório de estudos da formação JavaScript na DIO (exercícios e projetos de aprendizado). https://github.com/FelipeDev30/formacao-js-dio
-
-Habilidades técnicas
-- Linguagens: JavaScript/TypeScript, Python
-- Frameworks & runtime: Node.js, React, FastAPI
-- Banco de dados: MySQL, MongoDB
-- Boas práticas: SOLID, testes automatizados, CI/CD
-
-Como eu trabalho
-1. Entender o problema e os objetivos do negócio.
-2. Prototipar rápido e validar com métricas reais.
-3. Implementar com testes e revisão de código.
-4. Entregar automação e monitoramento para manter qualidade em produção.
-
-Contato
-- Email: felipedevjob28@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luiz-felipe-lamas-da-rosa/)
-
-Obrigado por visitar! 
+Se preferir que eu abra um pull request com esses arquivos/alterações, diga "abra um PR" e eu faço a PR com título sugerido: "docs: atualizar README do perfil e adicionar skills.yml". 

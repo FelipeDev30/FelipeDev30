@@ -1,0 +1,26 @@
+name: "Felipe (FelipeDev30)"
+primary_focus: "Front-end"
+skills:
+  - name: "JavaScript"
+    level: "Avançado"
+    evidence_repos:
+      - "FelipeDev30/formacao-js-dio"
+      - "FelipeDev30/estudando-logica"
+  - name: "CSS"
+    level: "Avançado"
+    evidence_repos:
+      - "FelipeDev30/pokedex"
+      - "FelipeDev30/app-lista-de-supermercado"
+  - name: "HTML"
+    level: "Proficiente"
+    evidence_repos:
+      - "FelipeDev30/estudando-front-end"
+  - name: "Node.js"
+    level: "Intermediário"
+    evidence_repos:
+      - "FelipeDev30/nodejs-study"
+tools:
+  - "Git"
+  - "GitHub"
+  - "APIs (fetch)"
+notes: "Perfil orientado a front-end prático com projetos para demonstrar habilidades. Atualize este arquivo quando adicionar frameworks ou certificações."
