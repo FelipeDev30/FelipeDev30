@@ -30,12 +30,12 @@ Desenvolvedor Front-End focado em criar experiências web modernas e responsivas
 ### 🌟 [Portfólio Pessoal](https://github.com/FelipeDev30/PORTIFOLIO)
 Meu portfólio profissional com design moderno e responsivo
 - **Tech:** HTML5, CSS3, JavaScript
-- **[Ver Projeto](link-deploy)**
+- **[Ver Projeto](https://felipedev30.github.io/PORTIFOLIO/)**
 
 ### 🎮 [Pokédex](https://github.com/FelipeDev30/pokedex)
 Aplicação que consome API do Pokémon com design responsivo
 - **Tech:** JavaScript, REST API, HTML5, CSS3
-- **[Ver Projeto](link-deploy)**
+- **[Ver Projeto](https://felipedev30.github.io/pokedex/)**
 
 ### 📱 [Clone Instagram](https://github.com/FelipeDev30/instagram-clone-app)
 Clone da interface do Instagram com React e Firebase
@@ -65,8 +65,8 @@ Clone da interface do Instagram com React e Firebase
 
 ## 📫 Como me Encontrar
 
-- 💼 Portfolio: [seu-portfolio.com](link)
-- 📧 Email: seu-email@exemplo.com
+- 💼 Portfolio: [seu-portfolio.com](https://felipedev30.github.io/PORTIFOLIO/)
+- 📧 Email: felipedevjob29@hotmail.com
 - 💬 Aberto para colaborações e oportunidades!
 
 ---
