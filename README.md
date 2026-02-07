@@ -55,7 +55,7 @@ Clone da interface do Instagram com React e Firebase
 
 ## 📫 Como me Encontrar
 
-- 💼 Portfolio: [seu-portfolio.com](https://felipedev30.github.io/PORTIFOLIO/)
+- 💼 Portfolio: [FelipeDev30](https://felipedev30.github.io/PORTIFOLIO/)
 - 📧 Email: felipedevjob29@hotmail.com
 - 💬 Aberto para colaborações e oportunidades!
 
