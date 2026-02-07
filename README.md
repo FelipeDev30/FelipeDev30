@@ -49,9 +49,13 @@ Clone da interface do Instagram com React e Firebase
 
 <div align="center">
   
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeDev30&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDev30&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FelipeDev30&theme=radical)
+
 
 </div>
 
