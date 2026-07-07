@@ -37,10 +37,6 @@ Aplicação que consome API do Pokémon com design responsivo
 - **Tech:** JavaScript, REST API, HTML5, CSS3
 - **[Ver Projeto](https://felipedev30.github.io/pokedex/)**
 
-### 📱 [Clone Instagram](https://github.com/FelipeDev30/instagram-clone-app)
-Clone da interface do Instagram com React e Firebase
-- **Tech:** React, Firebase, JavaScript
-
 ### 📚 [Formação JavaScript DIO](https://github.com/FelipeDev30/formacao-js-dio)
 46 arquivos JS documentados com conceitos fundamentais
 - **Tech:** JavaScript (puro), Documentação completa
